@@ -154,6 +154,7 @@ nav ul li a{
 .features-img{
     flex-basis: 50%;
     margin: auto;
+    text-align: center;
 }
 .features-img img{
     width: 30%;
